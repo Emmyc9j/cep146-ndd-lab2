@@ -1,16 +1,19 @@
-# study resources
+# Study resources
 
-# useful website
+# Useful website
 GitHub Docs - https://docs.github.com/
 Markdown Guide - https://www.markdownguide.org/
 Git Handbook - https://guides.github.com/introduction/git-handbook/
 
-# tools i use 
-vs code 
+# Tools i use
+
+Vs code
+
 notepad ++
+
 atom
 
-# class shedule
+# Class shedule
 |monday|teusday|wenesday|thursday|friday|
 |------|-------|--------|--------|------|
 |CEP146|APS145|OPS102|   |MATH140|  |OPS102|
