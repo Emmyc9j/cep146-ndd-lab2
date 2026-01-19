@@ -1,7 +1,7 @@
 # Study resources
 
   GitHub Docs – Markdown Guide
-  Official and beginner-friendly. Covers basics like headings, lists, links, images, code blocks, tables, and task lists. Best place to learn how Markdown works *specifically on GitHub*.
+  Official and beginner-friendly. Covers basics like headings, lists, links, images, code blocks, tables, and task lists. Best place to learn how Markdown works      specifically on GitHub.
 
   The Markdown Guide (markdownguide.org)
   Clear explanations with examples. Great for understanding core Markdown syntax before using it on GitHub.
